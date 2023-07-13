@@ -4,7 +4,7 @@
 
 Seorang pemilik supermarket **ingin mengetahui kinerja supermarketnya secara umum**. Di sisi lain, pemilik supermarket **ingin meluncurkan sebuah produk baru dalam kategori wine** sehingga pemilik supermarket **ingin mengetahui *customer behavior* pelanggannya yang sering membeli wine**.
 
-## **Pernyataan Masalah**
+# **Pernyataan Masalah**
 Pemilik supermarket **ingin mengetahui *customer behavior* dari pelanggan yang sering membeli produk wine di supermarketnya** sehingga dengan adanya informasi ini bisa memudahkan supermarket untuk melakukan segmenting ketika hendak meluncurkan produk wine terbarunya. 
 
 sebagai seorang Data Analyst, kita akan mencoba menjawab pertanyaan berikut: 
